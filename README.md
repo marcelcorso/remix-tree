@@ -13,15 +13,19 @@ content.)
  * using one of the segment's properties (start, duration, timbre, loudness_begin, loudness_max, time_loudness_max or loudness_end) as a key insert into a binary tree. 
  * traverse the binary tree generating a new sound file ("../inorder.mp3"). Traversal methods are pre-order, in-order and post-order (http://en.wikipedia.org/wiki/Tree_traversal#Depth-first_traversal)
 
+Example
+-------
 
-Conclusion: 
-all results are pretty random. 
+*Original*: Yosi Horikawa "Bubbles"
 
-Example:
-
-Original: Yosi Horikawa "Bubbles"
 http://shuffler.fm/tracks/favorites:8/88797/901260
 
-Using the segment's loudness_max as a key and traversing in post-order:
+*Using the segment's loudness_max as a key and traversing in post-order*:
+
 http://marcelcorso.tumblr.com/post/28284908201/my-favorite-track-of-the-year-yosi-horikawa
 
+
+Conclusion
+----------
+
+All results are pretty random. 
