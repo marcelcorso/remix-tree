@@ -16,3 +16,12 @@ content.)
 
 Conclusion: 
 all results are pretty random. 
+
+Example:
+
+Original: Yosi Horikawa "Bubbles"
+http://shuffler.fm/tracks/favorites:8/88797/901260
+
+Using the segment's loudness_max as a key and traversing in post-order:
+http://marcelcorso.tumblr.com/post/28284908201/my-favorite-track-of-the-year-yosi-horikawa
+
